@@ -7,7 +7,7 @@ body {
     color:white;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    margin-top: 7rem;
+    margin-top: 66px;
 }
 
 #quote{
@@ -15,7 +15,7 @@ body {
     color:white;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    margin-top: 13rem;
+    margin-top: 104px;
 }
 
 #login-form{
@@ -35,7 +35,21 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: 55px;
-    
+}
+
+#todo{
+    text-align: center;
+    border: none;
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid white;
+    outline:none;
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 55px;
 }
 
 #greeting{
@@ -47,6 +61,12 @@ body {
 
 .hidden{
     display: none;
+}
+
+#weather{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
 }
 
 h3 {
